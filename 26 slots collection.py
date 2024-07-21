@@ -1,5 +1,5 @@
 # local property limits
-#low memory consaption
+#low memory consumption
 #local property boost
 import timeit
 
